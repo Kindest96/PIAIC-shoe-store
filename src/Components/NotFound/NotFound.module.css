@@ -1,0 +1,28 @@
+/* .animated {
+    z-index: -1000;
+    position: relative;
+    animation: bounce 2s 1 alternate;
+    -webkit-animation: bounce 2s 1 alternate;
+  } 
+  
+  @keyframes bounce {
+    0%   {transform: translateY(-500%)}
+    25%  {transform: translateY(0px)}
+    50%  {transform: translateY(-250%)}
+    75%  {transform: translateY(0px)}
+    100%  {transform: translateY(0px)}
+  }
+  @-webkit-keyframes bounce {
+    0%   {transform: translateY(-500%)}
+    25%  {transform: translateY(0px)}
+    50%  {transform: translateY(-250%)}
+    75%  {transform: translateY(0px)}
+    100%  {transform: translateY(0px)}
+    0%   {transform: translateY(0px)}
+    16.67%  {transform: translateY(-500%)}
+    33.34%  {transform: translateY(0px)}
+    50.01%  {transform: translateY(-250%)}
+    66.68%  {transform: translateY(0px)}
+    83.35%  {transform: translateY(-125%)}
+    100% {transform: translateY(0px)}
+  } */
